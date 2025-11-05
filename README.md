@@ -1,6 +1,6 @@
 # 🐶 DogFetch
 
-DogFetch is a lightweight and fun React + TypeScript app built with Vite that fetches and displays random dog images using the Dog CEO API. Perfect for practicing API integration, component design, and type safety in a modern frontend stack.
+DogFetch is a lightweight and fun React + TypeScript app built with Vite that fetches and displays dog images using the Dog CEO API. Perfect for practicing API integration, component design, and type safety in a modern frontend stack.
 
 ## 🧪 Tech Stack
 
